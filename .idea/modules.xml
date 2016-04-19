@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common.iml" filepath="$PROJECT_DIR$/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonandroid/commonandroid.iml" filepath="$PROJECT_DIR$/commonandroid/commonandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonjava/commonjava.iml" filepath="$PROJECT_DIR$/commonjava/commonjava.iml" />
+    </modules>
+  </component>
+</project>
